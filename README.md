@@ -1,6 +1,6 @@
 # OpenSCWL
-
 **Open SimCity Without Limits**
+
 OpenSCWL is currently in active development and is not yet ready for public use, nor will have any updates to this repository until the private research phase is finished.
 
 ## Our Mission
